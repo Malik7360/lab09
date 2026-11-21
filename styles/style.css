@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 2em;
+    color: #222;
+}
+
+nav a {
+    color: #0645ad;
+}
+
+table {
+    border-collapse: collapse;
+    margin-top: 1em;
+}
+
+th, td {
+    border: 1px solid #999;
+    padding: 0.5em 1em;
+    text-align: left;
+}
+
+th {
+    background-color: #eee;
+}
+
+input[type="text"] {
+    padding: 0.3em;
+}
